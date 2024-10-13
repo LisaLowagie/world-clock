@@ -1,5 +1,7 @@
 body {
-  background: rgb(241, 185, 208);
+  background-image: url("../images/globe.jpg");
+  background-size: cover;
+  background-position: center top;
   font-family: sans-serif;
 }
 
@@ -24,7 +26,7 @@ footer {
 .container {
   max-width: 600px;
   margin: 60px auto;
-  background: white;
+  background: rgba(255, 250, 235, 0.822);
   padding: 60px;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.4);
   border-radius: 10px;
